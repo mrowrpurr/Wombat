@@ -1,4 +1,4 @@
-<img src="resources/images/logo.png" width="250" />
+<img src="resources/images/logo.png" width="200" />
 
 # Wombat
 
